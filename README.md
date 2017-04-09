@@ -1,1 +1,1 @@
-# gaCharityProject
+# charityProject
